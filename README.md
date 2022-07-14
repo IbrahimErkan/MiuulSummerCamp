@@ -1,10 +1,11 @@
-#                                             Miuul Summer Camp
+<h1><center>Miuul Summer Camp</center></h1>
 
 <ul>
 <li>I will be sharing the Miuul summer camp contents in this repo in detail.</li>
+<li>This repo will be added as you watch the videos according to the weekly content.</li>
 </ul>
 
-<h1> Week 1 - Python Programming </h1>
+<h2> Week 1 - Python Programming </h2>
 <ul>
     <li>Working Environment Settings</li>
     <li>Data Structures</li>
@@ -13,3 +14,4 @@
     <li>Loops</li>
     <li>Comprehensions</li>
 </ul>
+
