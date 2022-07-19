@@ -1,6 +1,4 @@
-<h1 style="text-align:center;">
-    Miuul Summer Camp
-</h1>
+<h1 style="text-align:center;"> Miuul Summer Camp </h1>
 
 <ul>
 <li>I will be sharing the Miuul summer camp contents in this repo in detail.</li>
