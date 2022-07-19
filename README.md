@@ -25,4 +25,4 @@
 - Data Analysis with Python : ADVANCED FUNCTIONAL EXPLORATORY DATA ANALYSIS
 
 
-![Optional Text](![certificate-of-completion-for-veri-bilimi-icin-python-programlama-1](https://user-images.githubusercontent.com/76455945/179752833-285d08ba-90d4-4adb-bcfb-fa1708c1870d.png))
+![This is an image](https://user-images.githubusercontent.com/76455945/179752833-285d08ba-90d4-4adb-bcfb-fa1708c1870d.png))
