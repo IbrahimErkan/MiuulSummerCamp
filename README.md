@@ -1,4 +1,4 @@
-# Miuul Summer Camp 
+#                                                          Miuul Summer Camp 
 
 
 - I will be sharing the Miuul summer camp contents in this repo in detail.
@@ -25,4 +25,5 @@
 - Data Analysis with Python : ADVANCED FUNCTIONAL EXPLORATORY DATA ANALYSIS
 
 
-![This is an image](https://user-images.githubusercontent.com/76455945/179752833-285d08ba-90d4-4adb-bcfb-fa1708c1870d.png))
+
+![](https://user-images.githubusercontent.com/76455945/179752833-285d08ba-90d4-4adb-bcfb-fa1708c1870d.png))
