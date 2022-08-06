@@ -34,11 +34,13 @@
 ** One Hot Encoding
 ** Rare Encoding
 ** Feature Scaling
+
 * Feature Extraction
 ** Binary Features
 ** Text Features
 ** Date Features
 ** Feature Interactions
+
 * Aplication
 
 
