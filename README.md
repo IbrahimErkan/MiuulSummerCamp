@@ -22,3 +22,4 @@
 * Data Analysis with Python: SEABORN
 * Data Analysis with Python: ADVANCED FUNCTIONAL EXPLORATORY DATA ANALYSIS
 
+![certificate-of-completion-for-veri-bilimi-icin-python-programlama-1](https://user-images.githubusercontent.com/76455945/183254352-a50e54cb-9170-4eff-9ba2-bbc1eafe12f0.png)
