@@ -30,16 +30,16 @@
 * Outliers
 * Missing Values
 * Encoding Scaling
-** Label Encoding
-** One Hot Encoding
-** Rare Encoding
-** Feature Scaling
+* * Label Encoding
+* * One Hot Encoding
+* * Rare Encoding
+* * Feature Scaling
 
 * Feature Extraction
-** Binary Features
-** Text Features
-** Date Features
-** Feature Interactions
+* * Binary Features
+* * Text Features
+* * Date Features
+* * Feature Interactions
 
 * Aplication
 
