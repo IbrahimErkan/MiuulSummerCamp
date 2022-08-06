@@ -23,3 +23,6 @@
 * Data Analysis with Python: ADVANCED FUNCTIONAL EXPLORATORY DATA ANALYSIS
 
 ![certificate-of-completion-for-veri-bilimi-icin-python-programlama-1](https://user-images.githubusercontent.com/76455945/183254352-a50e54cb-9170-4eff-9ba2-bbc1eafe12f0.png)
+
+
+![certificate-of-completion-for-ozellik-muhendisligi-makine-ogrenmesi-yaz-kampi (1)-1](https://user-images.githubusercontent.com/76455945/183254752-e5e4335b-f984-43f3-860d-af42030875fd.png)
