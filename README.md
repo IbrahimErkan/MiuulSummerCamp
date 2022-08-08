@@ -1,4 +1,4 @@
-# Miuul Summer Camp
+# Miuul ML Camp
 
 * I will be sharing the Miuul Summer Camp contents in this repo in detail.
 * This repo will be added as you watch the videos according to the weekly content.
